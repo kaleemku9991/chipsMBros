@@ -112,8 +112,13 @@ footer{
 }
 
 .price {
-    font-size: 20px;
-    margin-bottom: 5px;
+    font-size: 2rem;
+    margin: 2px;
+    font-weight: bold;
+}
+.amount{
+    margin: 2px;
+    font-size: 1rem;
 }
 
 .order-btn {
