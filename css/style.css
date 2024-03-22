@@ -294,6 +294,9 @@ footer{
     .price{
         font-size: 1rem;
     }
+    .pricing{
+        margin: 10px 5px;
+    }
     
 }
 
@@ -313,14 +316,14 @@ footer{
         padding: 2px 2px;
         font-size: 14px;
     }
-    .pricing{
-        margin: 10px 5px;
-    }
     .navbar{
         padding: 0 10px;
     }
     .logo{
         font-size: 20px;
+    }
+    .nav-links {
+        padding: 0px;
     }
     .nav-links li {
         margin-right: 5px;
